@@ -8,12 +8,12 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background:linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
+    background:linear-gradient(#571205,#941b11 , #5e100a);
 }
 
 header, footer {
     height: 100px;
-    color: #FFFFFF;
+    color: #121210;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -31,7 +31,7 @@ header {
     display: flex;
     align-items: center;
     gap: 24px;
-    color: #FFFFFF;
+    color: #121211;
     padding-left: 75px;
     justify-content: flex-start;
 }
